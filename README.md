@@ -1,2 +1,2 @@
-# nanatutu.github.io
+# nanatutu
 Personal Details
